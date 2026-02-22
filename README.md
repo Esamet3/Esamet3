@@ -32,12 +32,12 @@ Ben bir **Bilgisayar Mühendisliği Öğrencisi**'yim. Yazılım dünyasında ke
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esamet3&show_icons=true&theme=radical&locale=tr&hide_border=true" alt="Esamet3 GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esamet3&layout=compact&theme=radical&locale=tr&hide_border=true" alt="Esamet3 Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esamet3&show_icons=true&theme=radical&locale=tr" alt="Esamet3 GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esamet3&layout=compact&theme=radical&locale=tr" alt="Esamet3 Top Langs" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esamet3&theme=radical&hide_border=true" alt="Esamet3 GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esamet3&theme=radical" alt="Esamet3 GitHub Streak" />
 </p>
 
 ---
@@ -46,7 +46,6 @@ Ben bir **Bilgisayar Mühendisliği Öğrencisi**'yim. Yazılım dünyasında ke
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-üçkulak-b10593375)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/68_samet.68/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sametuckulak@gmail.com)
 
 ---
 <p align="center">
